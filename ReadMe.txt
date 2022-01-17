@@ -1,3 +1,5 @@
+PLEASE NOTE THAT median.c has been taken from online source to calculate running median using max/min heaps.
+
 hirawala@ste-rddev:~/CURLIT$ make clean; make
 rm -f -rf  sktest.o median.o *.dSYM
 gcc -fPIC -g -Wall    -c -o sktest.o sktest.c
