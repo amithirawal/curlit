@@ -17,4 +17,4 @@ all:
 	echo $(OBJECTS)
 
 clean:
-	$(RM) -rf $(BIN) $(OBJECTS) *.dSYM
+	$(RM) -rf $(BIN) $(OBJECTS)
